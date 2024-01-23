@@ -30,10 +30,9 @@ client.on('ready', async () => {
     .setName('♡')
     .setDetails(`‎   ◞ ◟‿◞ 𐙚ྀ ◟‿◞ ◟`)
   
- .setAssetsLargeImage('https://cdn.discordapp.com/attachments/856985862994264116/1188750040009818223/IMB_CKEyXY.gif?ex=659ba8bf&is=658933bf&hm=39a6796814721787b374b4391d4a7ecd439ddef7a16f13e7b12bf956ce1a0f55&') //You can put links in tenor or discord and etc.
+ .setAssetsLargeImage('https://cdn.discordapp.com/attachments/856985862994264115/1196990077721649303/IMG_3305.gif?ex=65b9a2e1&is=65a72de1&hm=2f74431287fdea058974eeea3fe927f27a54ea68ac5b857624390184fe82e2a3&') //You can put links in tenor or discord and etc.
     .setAssetsLargeText('‎‎      𝑝𝑟𝛼𝑖𝑠𝑒 𝑚𝑒 𝑓𝜊𝑟 𝑠𝑖𝑛.') //Text when you hover the Large image
-    .setAssetsSmallImage('https://cdn.discordapp.com/attachments/856985862994264116/1188758173507657758/Untitled142_20231225002023.png?ex=659bb052&is=65893b52&hm=751359f923d75c09d7378d39f3ceeb6a0f042448ad23ba6b9418d1babe7616be&') //You can put links in tenor or discord and etc.
-    .setAssetsSmallText('sleepy') //Text when you hover the Small image
+     //Text when you hover the Small image
     .addButton('꒰ ྀི ◞ ◟꒱', 'https://open.spotify.com/playlist/3Jw7YlfSJOqV1da7mCVPdM?si=509b691da7b843cb')
 
 
