@@ -30,7 +30,7 @@ client.on('ready', async () => {
     .setName('♡')
     .setDetails(`‎   ◞ ◟‿◞ 𐙚ྀ ◟‿◞ ◟`)
   
- .setAssetsLargeImage('https://cdn.discordapp.com/attachments/856985862994264116/1247317707821551656/IMB_jXvf3B.gif?ex=6670ba23&is=666f68a3&hm=ccc24e4c35d8bbfbee12eb91e1887d31905099fc68eeb6e2a82fb2e125d993ff&') //You can put links in tenor or discord and etc.
+ .setAssetsLargeImage('https://cdn.discordapp.com/attachments/856985862994264116/1252572916843942001/IMB_UNoPz3.gif?ex=6672b4ef&is=6671636f&hm=e430e168e819d1339d4fbb2a59b3ba09da0fa673626f59f8de43be0431d48695&') //You can put links in tenor or discord and etc.
     .setAssetsLargeText('‎‎      𝑝𝑟𝛼𝑖𝑠𝑒 𝑚𝑒 𝑓𝜊𝑟 𝑠𝑖𝑛.') //Text when you hover the Large image
     
     .setAssetsSmallText('sleepy') //Text when you hover the Small image
