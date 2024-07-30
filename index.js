@@ -34,7 +34,7 @@ client.on('ready', async () => {
     .setAssetsLargeText('‎‎      𝑝𝑟𝛼𝑖𝑠𝑒 𝑚𝑒 𝑓𝜊𝑟 𝑠𝑖𝑛.') //Text when you hover the Large image
     
     .setAssetsSmallText('sleepy') //Text when you hover the Small image
-    .addButton('꒰ ྀི ◞ ◟꒱', 'https://open.spotify.com/playlist/3Jw7YlfSJOqV1da7mCVPdM?si=509b691da7b843cb')
+    .addButton('꒰ ྀི ◞ ◟꒱', 'https://youtu.be/i_rw1C9eG_Q?si=6pNVtryXwCcklFng')
 
 
   client.user.setActivity(r);
